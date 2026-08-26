@@ -1,80 +1,102 @@
-# Hi, I'm David
+# Hi, I'm David 👋
 
-Computer Engineering Student focused on Artificial Intelligence, Expert Systems, Decision Support Systems, and Software Development.
+**Computer Engineering Student | AI Enthusiast | Software Engineer in Progress**
 
-I enjoy building real-world software solutions and continuously improving my understanding of intelligent systems, backend engineering, and automation technologies.
+I am a Computer Engineering student building toward a career in **Artificial Intelligence and intelligent software systems**. My long-term goal is to design and engineer systems that can **reason, automate decisions, learn from data, and solve real-world problems**.
+
+My interests span **Machine Learning, Large Language Models (LLMs), Expert Systems, Intelligent Systems, backend engineering, automation, and modern frontend development**.
 
 ---
 
 ## About Me
 
-I am currently exploring:
-- Artificial Intelligence
-- Expert Systems
-- Decision Support Systems (DSS)
-- Software Engineering
-- Automation Systems
-- Backend Development
+I enjoy turning engineering concepts into practical software. I am particularly interested in the intersection of **software engineering, data, and artificial intelligence**—from building reliable backends and APIs to exploring systems capable of intelligent decision-making.
 
-My interest is centered on designing systems that can support decision-making, automate processes, and solve practical engineering problems.
+My current direction is toward becoming an engineer who can move across the full lifecycle of an intelligent application:
+
+**Data → Models → APIs → Intelligent Systems → User Experience**
+
+I value strong fundamentals, practical implementation, and continuous learning through real projects.
 
 ---
 
-## Currently Learning
+## Current Focus
 
-- Next.js
-- Django
-- MySQL
-- API Development
-- System Design Fundamentals
+* Artificial Intelligence & Machine Learning
+* Large Language Models (LLMs)
+* Intelligent Systems
+* Expert Systems
+* Decision Support Systems
+* Backend Engineering & API Development
+* Data-Driven Applications
+* Automation & Optimization
+* Frontend Design and Development
 
 ---
 
 ## Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- SQL
-- HTML/CSS
 
-### Frameworks & Tools
-- Django
-- Next.js
-- Git & GitHub
-- MySQL
-- VS Code
+* **Python**
+* **JavaScript**
+* **SQL**
+* **HTML5**
+* **CSS3**
+
+### Frameworks & Technologies
+
+* **Django**
+* **PostgreSQL**
+
+### Developer Tools
+
+* **Git & GitHub**
+* **VS Code**
+* **PyCharm**
+* **Postman**
+* **Swagger / OpenAPI**
 
 ---
 
 ## Areas of Interest
 
-- Intelligent Systems
-- Medical Decision Support Systems
-- Expert Systems
-- AI-powered Applications
-- Backend Architecture
-- Data-Driven Systems
-- Automation and Optimization
+* 🧠 Intelligent Systems
+* 🤖 Machine Learning & AI-powered Applications
+* 🗣️ Large Language Models & AI Agents
+* ⚙️ Expert Systems & Decision Support Systems
+* 🏗️ Backend Architecture & API Engineering
+* 📊 Data-Driven Systems
+* 🔄 Automation & Optimization
+* 🎨 Frontend Design & User Interfaces
 
 ---
 
-## Goals
+## What I'm Working Toward
 
-- Build scalable software systems
-- Develop intelligent applications
-- Strengthen backend engineering skills
-- Contribute to meaningful real-world projects
-- Grow as an AI and software engineer
+I am building the foundation to eventually work on systems involving:
 
----
-
-## GitHub
-
-GitHub Profile: https://github.com/DAV-cloud764
+* Training and deploying machine learning models
+* Building applications around LLMs
+* Designing intelligent decision-making systems
+* Engineering AI-powered automation workflows
+* Developing scalable backend services and APIs
+* Creating usable frontend experiences for intelligent applications
 
 ---
 
-## Philosophy
+## Engineering Philosophy
 
-Learn consistently, build practically, and improve continuously.
+> **Learn deeply. Build practically. Engineer intelligently.**
+
+I believe strong engineers are built by understanding fundamentals, applying them to real problems, and continuously improving through implementation.
+
+---
+
+## Connect
+
+* GitHub: [DAV-cloud764](https://github.com/DAV-cloud764)
+
+---
+
+⭐ **Building today for the intelligent systems of tomorrow.**
