@@ -41,6 +41,7 @@ I value strong fundamentals, practical implementation, and continuous learning t
 * **Python**
 * **JavaScript**
 * **SQL**
+* **Java**
 * **HTML5**
 * **CSS3**
 
@@ -48,6 +49,8 @@ I value strong fundamentals, practical implementation, and continuous learning t
 
 * **Django**
 * **PostgreSQL**
+* **FastAPI**
+* **SpringBoot**
 
 ### Developer Tools
 
