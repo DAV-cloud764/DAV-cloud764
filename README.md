@@ -34,110 +34,42 @@ I value strong fundamentals, practical implementation, and continuous learning t
 
 ---
 
+Script</strong>
+  </span>
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 
 <p align="left">
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br>
-    <strong>Python</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /><br>
-    <strong>JavaScript</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br>
-    <strong>Java</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /><br>
-    <strong>HTML5</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /><br>
-    <strong>CSS3</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <br>
-    <strong>SQL</strong>
-  </span>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL" />
 </p>
 
 ### ⚙️ Frameworks & Technologies
 
 <p align="left">
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" height="45" alt="Django" /><br>
-    <strong>Django</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" /><br>
-    <strong>FastAPI</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" /><br>
-    <strong>Spring Boot</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" /><br>
-    <strong>PostgreSQL</strong>
-  </span>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" height="45" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
 </p>
 
 ### 🧰 Developer Tools
 
 <p align="left">
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br>
-    <strong>Git</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /><br>
-    <strong>GitHub</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" /><br>
-    <strong>VS Code</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm" /><br>
-    <strong>PyCharm</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" /><br>
-    <strong>IntelliJ IDEA</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" /><br>
-    <strong>Postman</strong>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="45" height="45" alt="Swagger / OpenAPI" /><br>
-    <strong>Swagger / OpenAPI</strong>
-  </span>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="45" height="45" alt="Swagger / OpenAPI" />
 </p>
+
 
 
 ## Areas of Interest
