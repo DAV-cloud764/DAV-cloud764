@@ -39,85 +39,104 @@ I value strong fundamentals, practical implementation, and continuous learning t
 ### 💻 Languages
 
 <p align="left">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /></a>
-</p>
 
-<p align="left">
-  <strong>Python</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>JavaScript</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Java</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>HTML5</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>CSS3</strong>
-</p>
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br>
+    <strong>Python</strong>
+  </span>
 
-**SQL**
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /><br>
+    <strong>JavaScript</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br>
+    <strong>Java</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /><br>
+    <strong>HTML5</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /><br>
+    <strong>CSS3</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <br>
+    <strong>SQL</strong>
+  </span>
+
+</p>
 
 ### ⚙️ Frameworks & Technologies
 
 <p align="left">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" height="45" alt="Django" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" /></a>
-</p>
 
-<p align="left">
-  <strong>Django</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>FastAPI</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Spring Boot</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>PostgreSQL</strong>
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" height="45" alt="Django" /><br>
+    <strong>Django</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" /><br>
+    <strong>FastAPI</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" /><br>
+    <strong>Spring Boot</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" /><br>
+    <strong>PostgreSQL</strong>
+  </span>
+
 </p>
 
 ### 🧰 Developer Tools
 
 <p align="left">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="45" height="45" alt="Swagger" /></a>
-</p>
 
-<p align="left">
-  <strong>Git</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>GitHub</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>VS Code</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>PyCharm</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>IntelliJ IDEA</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Postman</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Swagger / OpenAPI</strong>
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br>
+    <strong>Git</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /><br>
+    <strong>GitHub</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" /><br>
+    <strong>VS Code</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm" /><br>
+    <strong>PyCharm</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" /><br>
+    <strong>IntelliJ IDEA</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" /><br>
+    <strong>Postman</strong>
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:25px; white-space:nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="45" height="45" alt="Swagger / OpenAPI" /><br>
+    <strong>Swagger / OpenAPI</strong>
+  </span>
+
 </p>
 
 
