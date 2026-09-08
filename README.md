@@ -1,4 +1,4 @@
-# Hi, I'm David 👋
+# Hi, I'm David 
 
 **Computer Engineering Student | AI Enthusiast | Software Engineer in Progress**
 
