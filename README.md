@@ -1,165 +1,50 @@
-# David
+**Computer Engineering Student | Frontend Engineer | Decision Support & Expert Systems**
 
-### Computer Engineering Student · Software Engineer · AI & Automation Enthusiast
+Professional Summary
 
-I am a **Computer Engineering student and software engineer in training** focused on building reliable, maintainable, and intelligent software systems.
+Computer Engineering student focused on Frontend Engineering, Decision Support Systems (DSS), and Expert Systems. Interested in developing intuitive user interfaces and intelligent software applications that support data-driven decisions, knowledge-based reasoning, and practical problem-solving. Experienced with modern web technologies, backend integration, and relational databases, with a continued focus on building reliable and maintainable software.
 
-My engineering interests sit at the intersection of **software engineering, backend development, artificial intelligence, data, and automation**. I enjoy translating engineering concepts into practical systems and continuously improving my ability to design, implement, test, and integrate software.
+Areas of Expertise
 
-My current engineering direction is:
+**Decision Support Systems**: Data-driven applications, decision analysis, and information visualization.
 
-**Software Engineering → Backend Systems → Data & AI → Intelligent Automation**
+**Expert Systems**: Knowledge-based systems, rule-based reasoning, and intelligent problem-solving.
 
----
+**Frontend Engineering**: Responsive interfaces, reusable components, user experience, and frontend–backend integration.
 
-## 👨‍💻 Engineering Profile
+**Software Engineering**: Object-oriented programming, REST API integration, application architecture, and maintainable code.
 
-I am developing capabilities across the software development lifecycle, with particular interest in:
+**Database Systems**: Relational database design, SQL, data management, and application integration.
 
-* **Backend Engineering** — APIs, application architecture, authentication, and services
-* **Software Development** — object-oriented programming, system design, and maintainable code
-* **Artificial Intelligence** — machine learning, intelligent systems, and AI-powered applications
-* **LLM Engineering** — exploring large language models, AI agents, and intelligent workflows
-* **Automation** — designing software-driven processes that reduce repetitive work and improve efficiency
-* **Data Systems** — databases, data-driven applications, and information processing
-* **Frontend Development** — building usable interfaces that connect users with backend and intelligent systems
+Technical Skills
 
----
+Category
 
-## 🛠️ Technical Skills
+Skills
 
-### Programming Languages
+Frontend Development
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
-</p>
+React, JavaScript, TypeScript, HTML5, CSS3, responsive design
 
-**Python · Java · JavaScript · HTML · CSS · SQL**
+Programming
 
-### Backend & Frameworks
+Python, Java, JavaScript, SQL
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="42" height="42" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" />
-</p>
+Backend Development
 
-**FastAPI · Django · Spring Boot · REST APIs · Authentication · Backend Architecture**
+Spring Boot, FastAPI, Django, REST APIs
 
-### Databases
+Decision Support & AI
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" />
-</p>
+Decision Support Systems, Expert Systems, rule-based reasoning, intelligent systems
 
-**PostgreSQL · MySQL · SQL**
+Databases
 
-### Engineering Tools
+PostgreSQL, MySQL
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="42" height="42" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="42" height="42" alt="Swagger" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="42" height="42" alt="IntelliJ IDEA" />
-</p>
+Development Tools
 
-**Git · GitHub · Postman · Swagger/OpenAPI · VS Code · PyCharm · IntelliJ IDEA**
-
----
-
-## 🧠 Areas of Engineering Interest
-
-| Area                        | Focus                                                 |
-| --------------------------- | ----------------------------------------------------- |
-| **Software Engineering**    | Architecture, OOP, clean code, maintainability        |
-| **Backend Engineering**     | APIs, services, authentication, system integration    |
-| **Artificial Intelligence** | ML, intelligent systems, AI applications              |
-| **LLM Engineering**         | LLM applications, agents, intelligent workflows       |
-| **Automation**              | Workflow automation, optimization, system integration |
-| **Data Engineering**        | Databases, data processing, data-driven applications  |
-| **System Design**           | Components, interfaces, scalability, reliability      |
-
----
-
-## 🔬 Current Engineering Direction
-
-I am progressively developing toward the ability to engineer complete intelligent applications:
-
-```text
-                    SOFTWARE ENGINEERING
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-        BACKEND SYSTEMS              DATA SYSTEMS
-             │                           │
-             └─────────────┬─────────────┘
-                           │
-                     INTELLIGENT SYSTEMS
-                           │
-                  ┌────────┴────────┐
-                  │                 │
-                AI / ML          LLMs
-                  │                 │
-                  └────────┬────────┘
-                           │
-                       AUTOMATION
-                           │
-                           ▼
-                  INTELLIGENT SOFTWARE
-```
-
-The objective is to understand not only individual technologies, but **how they work together as engineered systems**.
-
----
-
-## 🎓 Education
-
-**Bachelor's Degree in Computer Engineering**
-
-Currently developing a strong foundation across:
-
-* Programming and algorithms
-* Object-oriented software engineering
-* Computer systems
-* Databases
-* Software architecture
-* Artificial intelligence
-* Data-driven systems
-* Web and backend technologies
-
----
-
-## 🚀 Professional Direction
-
-I am working toward opportunities where I can contribute to teams building:
-
-* Backend and API-driven systems
-* AI-powered software
-* Intelligent decision-support systems
-* Automation platforms and workflows
-* Data-driven applications
-* Scalable software services
-
-I am particularly interested in environments where **software engineering fundamentals and emerging AI technologies intersect**.
-
----
-
-## ⚙️ Engineering Principles
-
-> **Understand the fundamentals. Build the system. Measure the result. Improve continuously.**
-
-I approach engineering as a continuous cycle of:
-
-**Learn → Design → Build → Test → Evaluate → Improve**
-
----
+Git, GitHub, Postman, Swagger/OpenAPI, Visual Studio Code, IntelliJ IDEA
 
 ## 📫 Connect
 
@@ -172,5 +57,3 @@ I approach engineering as a continuous cycle of:
 ---
 
 ### Building toward intelligent software systems.
-
-**Computer Engineering · Software Engineering · AI · Automation**
