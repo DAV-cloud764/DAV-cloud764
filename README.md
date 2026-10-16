@@ -20,7 +20,7 @@ Areas of Expertise
 
 | **Category** | **Skills & Technologies** |
 |---|---|
-| **Programming Languages** | Python, Java, JavaScript, TypeScript, SQL |
+| **Programming Languages** | Python, Java, TypeScript, SQL |
 | **Frontend Engineering** | React, HTML5, CSS3, Responsive Design, Component-Based Development |
 | **Backend Development & APIs** | Spring Boot, FastAPI, Django, REST API Development and Integration |
 | **Database Management** | PostgreSQL, MySQL, Relational Database Design |
