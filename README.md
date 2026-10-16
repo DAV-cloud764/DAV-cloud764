@@ -16,35 +16,16 @@ Areas of Expertise
 
 **Database Systems**: Relational database design, SQL, data management, and application integration.
 
-Technical Skills
+## **Technical Skills**
 
-Category
-
-Skills
-
-Frontend Development
-
-React, JavaScript, TypeScript, HTML5, CSS3, responsive design
-
-Programming
-
-Python, Java, JavaScript, SQL
-
-Backend Development
-
-Spring Boot, FastAPI, Django, REST APIs
-
-Decision Support & AI
-
-Decision Support Systems, Expert Systems, rule-based reasoning, intelligent systems
-
-Databases
-
-PostgreSQL, MySQL
-
-Development Tools
-
-Git, GitHub, Postman, Swagger/OpenAPI, Visual Studio Code, IntelliJ IDEA
+| **Category** | **Skills & Technologies** |
+|---|---|
+| **Programming Languages** | Python, Java, JavaScript, TypeScript, SQL |
+| **Frontend Engineering** | React, HTML5, CSS3, Responsive Design, Component-Based Development |
+| **Backend Development & APIs** | Spring Boot, FastAPI, Django, REST API Development and Integration |
+| **Database Management** | PostgreSQL, MySQL, Relational Database Design |
+| **Decision Support & Expert Systems** | Decision Support Systems (DSS), Expert Systems, Rule-Based Reasoning, Intelligent Systems |
+| **Development Tools & API Testing** | Git, GitHub, Postman, Swagger/OpenAPI, Visual Studio Code, IntelliJ IDEA |
 
 ## 📫 Connect
 
