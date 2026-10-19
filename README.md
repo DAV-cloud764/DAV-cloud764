@@ -33,15 +33,14 @@ Areas of Expertise
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/DAV-cloud764/stock-management">
-        <img src="https://opengraph.githubassets.com/main/DAV-cloud764/stock-management" alt="Stock Management System repository preview" width="100%">
+        <img src="https://placehold.co/640x320/0d1117/ffffff?text=Stock+Management+System" alt="Stock Management System preview" width="100%">
       </a>
       <h3>Stock Management System</h3>
-      <p>An inventory management application focused on organizing stock records and supporting day-to-day inventory operations.</p>
-      <p><strong>Focus:</strong> Inventory Management, Business Operations</p>
+      <p>An inventory management project focused on organizing stock records and supporting inventory operations.</p>
       <a href="https://github.com/DAV-cloud764/stock-management">View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/DAV-cloud764/RebbyStore">
+      <a href="https://opengraph.githubassets.com/main/DAV-cloud764/RebbyStore">
         <img src="https://opengraph.githubassets.com/main/DAV-cloud764/RebbyStore" alt="RebbyStore repository preview" width="100%">
       </a>
       <h3>RebbyStore — E-Commerce Platform</h3>
@@ -52,7 +51,7 @@ Areas of Expertise
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/DAV-cloud764/MamaCareAI-PT26">
+      <a href="https://opengraph.githubassets.com/main/DAV-cloud764/MamaCareAI-PT26">
         <img src="https://opengraph.githubassets.com/main/DAV-cloud764/MamaCareAI-PT26" alt="MamaCare AI repository preview" width="100%">
       </a>
       <h3>MamaCare AI — Health Information Assistant</h3>
@@ -61,17 +60,16 @@ Areas of Expertise
       <a href="https://github.com/DAV-cloud764/MamaCareAI-PT26">View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/DAV-cloud764/fastapi-authentication-system">
+      <a href="https://opengraph.githubassets.com/main/DAV-cloud764/fastapi-authentication-system">
         <img src="https://opengraph.githubassets.com/main/DAV-cloud764/fastapi-authentication-system" alt="FastAPI Authentication System repository preview" width="100%">
       </a>
       <h3>FastAPI Authentication System</h3>
-      <p>A Python backend project focused on authentication endpoints, user registration, login workflows, and API development.</p>
+      <p>A Python backend project focused on user authentication workflows and API development using FastAPI.</p>
       <p><strong>Tech Stack:</strong> Python, FastAPI</p>
       <a href="https://github.com/DAV-cloud764/fastapi-authentication-system">View Repository</a>
     </td>
   </tr>
 </table>
-
 ## 📫 Connect
 
 <p align="left">
