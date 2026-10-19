@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=DAV-cloud764&label=Profile%20Views&color=0e75b6&style=flat)
+
 **Computer Engineering Student | Frontend Engineer | Decision Support & Expert Systems**
 
 Professional Summary
