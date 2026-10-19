@@ -50,7 +50,9 @@ Areas of Expertise
         <a href="https://github.com/DAV-cloud764/stock-management">View Repository</a>
       </p>
     </td>
+  </tr>
 
+<tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/DAV-cloud764/RebbyStore">
         <img
