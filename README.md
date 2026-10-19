@@ -35,6 +35,28 @@ Areas of Expertise
   </a>
 </p>
 
+
+## **Connect With Me**
+
+- **Portfolio:** [MLUE Technology](https://www.mluetechnology.me/)
+- **LinkedIn:** [David Francis Mwakajonga](https://www.linkedin.com/in/david-francis-2b7098388/)
+- **WhatsApp:** [+255 620 196 710](https://wa.me/255620196710)
+- **Email:** [daviesfrances869@gmail.com](mailto:daviesfrances869@gmail.com)
+
+---
+
+## **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DAV-cloud764&show_icons=false&hide_border=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DAV-cloud764&layout=compact&hide_border=true&theme=default)
+
+---
+
+## **Streak Stats**
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DAV-cloud764&hide_border=true&theme=default)
+
 ---
 
 ### Building toward intelligent software systems.
