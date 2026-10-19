@@ -33,86 +33,54 @@ Areas of Expertise
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/DAV-cloud764/stock-management">
-        <img
-          src="https://opengraph.githubassets.com/main/DAV-cloud764/stock-management"
-          alt="Stock Management System"
-          width="280"
-        >
-      </a>
-      <h3 align="left">Stock Management System</h3>
-      <p align="left">
-        An inventory management application for organizing stock records
-        and supporting inventory operations.
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/DAV-cloud764/stock-management">
+          <img src="https://opengraph.githubassets.com/main/DAV-cloud764/stock-management" alt="Stock Management System" width="220">
+        </a>
       </p>
-      <p align="left">
-        <a href="https://github.com/DAV-cloud764/stock-management">View Repository</a>
+      <h3>Stock Management System</h3>
+      <p>An inventory management application for organizing stock records and supporting inventory operations.</p>
+      <a href="https://github.com/DAV-cloud764/stock-management">View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/DAV-cloud764/RebbyStore">
+          <img src="https://opengraph.githubassets.com/main/DAV-cloud764/RebbyStore" alt="RebbyStore" width="220">
+        </a>
       </p>
+      <h3>RebbyStore — E-Commerce Platform</h3>
+      <p>A full-stack e-commerce application for managing products, inventory, purchases, orders, and customers.</p>
+      <p><strong>Tech Stack:</strong> React, Spring Boot, PostgreSQL</p>
+      <a href="https://github.com/DAV-cloud764/RebbyStore">View Repository</a>
     </td>
   </tr>
-
-<tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/DAV-cloud764/RebbyStore">
-        <img
-          src="https://opengraph.githubassets.com/main/DAV-cloud764/RebbyStore"
-          alt="RebbyStore"
-          width="280"
-        >
-      </a>
-      <h3 align="left">RebbyStore — E-Commerce</h3>
-      <p align="left">
-        A full-stack store with product, inventory, purchase, order,
-        and customer management.
-      </p>
-      <p align="left"><strong>Stack:</strong> React, Spring Boot, PostgreSQL</p>
-      <p align="left">
-        <a href="https://github.com/DAV-cloud764/RebbyStore">View Repository</a>
-      </p>
-    </td>
-  </tr>
-
   <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/DAV-cloud764/MamaCareAI-PT26">
-        <img
-          src="https://opengraph.githubassets.com/main/DAV-cloud764/MamaCareAI-PT26"
-          alt="MamaCare AI"
-          width="280"
-        >
-      </a>
-      <h3 align="left">MamaCare AI</h3>
-      <p align="left">
-        A Swahili conversational AI project providing maternal and newborn
-        health information through Telegram, grounded in vetted sources.
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/DAV-cloud764/MamaCareAI-PT26">
+          <img src="https://opengraph.githubassets.com/main/DAV-cloud764/MamaCareAI-PT26" alt="MamaCare AI" width="220">
+        </a>
       </p>
-      <p align="left"><strong>Stack:</strong> Python, FastAPI, RAG</p>
-      <p align="left">
-        <a href="https://github.com/DAV-cloud764/MamaCareAI-PT26">View Repository</a>
-      </p>
+      <h3>MamaCare AI — Health Information Assistant</h3>
+      <p>A Swahili conversational AI project delivering maternal and newborn health information through Telegram using vetted health sources.</p>
+      <p><strong>Tech Stack:</strong> Python, FastAPI, RAG</p>
+      <a href="https://github.com/DAV-cloud764/MamaCareAI-PT26">View Repository</a>
     </td>
-
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/DAV-cloud764/fastapi-authentication-system">
-        <img
-          src="https://opengraph.githubassets.com/main/DAV-cloud764/fastapi-authentication-system"
-          alt="FastAPI Authentication System"
-          width="280"
-        >
-      </a>
-      <h3 align="left">FastAPI Authentication System</h3>
-      <p align="left">
-        A Python backend project focused on user registration, login,
-        authentication workflows, and API development.
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/DAV-cloud764/fastapi-authentication-system">
+          <img src="https://opengraph.githubassets.com/main/DAV-cloud764/fastapi-authentication-system" alt="FastAPI Authentication System" width="220">
+        </a>
       </p>
-      <p align="left"><strong>Stack:</strong> Python, FastAPI</p>
-      <p align="left">
-        <a href="https://github.com/DAV-cloud764/fastapi-authentication-system">View Repository</a>
-      </p>
+      <h3>FastAPI Authentication System</h3>
+      <p>A Python backend project focused on user authentication workflows and API development with FastAPI.</p>
+      <p><strong>Tech Stack:</strong> Python, FastAPI</p>
+      <a href="https://github.com/DAV-cloud764/fastapi-authentication-system">View Repository</a>
     </td>
   </tr>
 </table>
+
 ## 📫 Connect
 
 <p align="left">
