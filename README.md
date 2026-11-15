@@ -99,17 +99,26 @@ Areas of Expertise
 
 ---
 
-## **GitHub Stats**
+## **GitHub Statistics**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DAV-cloud764&show_icons=false&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DAV-cloud764&layout=compact&hide_border=true&theme=default)
+<p align="center">
+  <a href="https://github.com/DAV-cloud764">
+    <img src="./profile/stats.svg" alt="GitHub Statistics" height="170">
+  </a>
+  <a href="https://github.com/DAV-cloud764">
+    <img src="./profile/top-langs.svg" alt="Top Programming Languages" height="170">
+  </a>
+</p>
 
 ---
 
-## **Streak Stats**
+## **Streak Statistics**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DAV-cloud764&hide_border=true&theme=default)
+<p align="center">
+  <a href="https://github.com/DAV-cloud764">
+    <img src="./profile/streak.svg" alt="GitHub Contribution Streak" height="170">
+  </a>
+</p>
 
 ---
 
